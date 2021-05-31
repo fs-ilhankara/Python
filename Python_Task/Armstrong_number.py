@@ -9,7 +9,7 @@ if sayi.isnumeric() == True:
     b = sum(liste)
 
     if int(sayi) == b:
-        print(sayi, "is an Armsrong number")
+        print(sayi, "is an Armstrong number")
     else:
         print(sayi, "is not an Armstrong number")
     
